@@ -1,0 +1,15 @@
+{
+    "name": "meirambek/test",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "authors": [
+        {
+            "name": "tungatarovM",
+            "email": "tungatarov.96@mail.ru"
+        }
+    ],
+    "require": {}
+}
